@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "didi",
+        "umur": 32,
+        "nrp": "043040023",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gym"
+        ],
+        "pembimbing": {
+            "pembimbing1": "dedung",
+            "pembimbing2": "aldy"
+        }
+    },
+    {
+        "nama": "danu",
+        "umur": 33,
+        "nrp": "043040024",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "party"
+        ],
+        "pembimbing": {
+            "pembimbing1": "baim",
+            "pembimbing2": "adit"
+        }
+    }
+]
